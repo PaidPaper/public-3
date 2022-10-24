@@ -20,13 +20,3 @@ Changes July 25
 3
 August 01
 
-Test
-Take a look here pls
-
-Test
-
-121
-Test3
-Test4
-111
-test
