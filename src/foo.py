@@ -7,3 +7,4 @@ class Foo:
     print("Hello foo4")
 
     print("Hello foo5")
+    print("Hello food")
