@@ -5,17 +5,8 @@ class Foo:
     print("Hello foo1")
     print("Hello foo3")
     print("Hello foo4")
-
     print("Hello foo5")
-
-
     print("Hello foo5")
-
-
     print("Hello foo5")
-
-
     print("Hello foo21")
-
-
     print("Hello foo5")
