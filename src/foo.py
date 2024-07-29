@@ -24,4 +24,7 @@ class Foo:
     print("Hello foo12")
     print("Hello foo12")
     print("Hello foo12")
-    
+    print("Hello foo12")
+    print("Hello foo12")
+    print("Hello foo12")
+    print("Hello foo12")
