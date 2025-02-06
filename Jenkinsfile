@@ -12,7 +12,8 @@ pipeline {
             steps {
                 echo 'Testing..'
                 sleep(5)
-                echo 'ready to go!'
+                echo 'RED'
+                sleep(5)
             }
         }
         stage('Deploy') {
