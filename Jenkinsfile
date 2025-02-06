@@ -15,7 +15,7 @@ pipeline {
                 echo 'RED'
                 sleep(5)
                 echo 'YELLOW'
-                sleep(5)
+                sleep(10)
                 echo 'GREEN'
             }
         }
