@@ -16,6 +16,7 @@ pipeline {
                 sleep(5)
                 echo 'YELLOW'
                 sleep(5)
+                echo 'GREEN'
             }
         }
         stage('Deploy') {
