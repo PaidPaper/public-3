@@ -11,7 +11,7 @@ pipeline {
         stage('Test') {
             steps {
                 echo 'Testing..'
-                sleep(5)
+                sleep(10)
                 echo 'RED'
                 sleep(5)
                 echo 'YELLOW'
