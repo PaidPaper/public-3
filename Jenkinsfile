@@ -13,7 +13,7 @@ pipeline {
                 echo 'Testing..'
                 sleep(10)
                 echo 'RED'
-                sleep(5)
+                sleep(10)
                 echo 'YELLOW'
                 sleep(10)
                 echo 'GREEN'
