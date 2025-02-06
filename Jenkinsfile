@@ -12,6 +12,11 @@ pipeline {
             steps {
                 echo 'Testing..'
                 sleep(10)
+                echo 'RED'
+                sleep(10)
+                echo 'YELLOW'
+                sleep(10)
+                echo 'GREEN'
             }
         }
         stage('Deploy') {
